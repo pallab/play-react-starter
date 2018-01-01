@@ -1,0 +1,17 @@
+.idea
+*.class
+.metadata
+.cache
+*.cache
+.ivy2
+.sbt
+.history
+target
+build
+build.log
+**/.cache
+*/.cache-main
+*/.cache-tests
+bin
+node_modules
+logs
